@@ -1,0 +1,22 @@
+{
+  "name": "client-simple",
+  "version": "1.0.0",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ammarGamal123/client-simple.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ammarGamal123/client-simple/issues"
+  },
+  "homepage": "https://github.com/ammarGamal123/client-simple#readme",
+  "description": "",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
